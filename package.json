@@ -1,0 +1,7 @@
+{
+  "name": "wall-Over",
+  "private": true,
+  "dependencies": {
+    "react-native-simple-radio-button": "^2.7.1"
+  }
+}
